@@ -1,6 +1,6 @@
 # LAB NOTES
 
-_tus notas_
+_your notebook_
 
 ## Comenzando 🚀
 
