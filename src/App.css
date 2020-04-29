@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+/*********************CSS INICIO*****************************************************************/
+.App-header {
+ /* background-color: #282c34;*/
+  background-color:#002B36;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  font-family: 'Fredericka the Great', cursive;
+}
+.flechaInicio:hover {
+  transform: scale(2.8)
+ 
+}
+/**************************CSS LOGIN***************************************************************************/
+
+.menu{
+  background:black;
+  
+}
+.modalLogin{
+  margin-top: 155px;
+}
+.modalLoginMain{
+  padding-top: 55px;
+  padding-bottom:85px;
+  border-radius: 24px 24px 24px 24px ;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.inputLogin{
+  border-color: rgb(175, 81, 155);
+  border-radius: 8px ;
+}
+/****************************************CSS REGISTRER****************************************************/
+.modal-seccion{
+  box-shadow: 6px -5px 5px 0px rgba(0,0,0,0.75);
+  padding-top:35px;
+  padding-bottom:85px;
+  border-radius: 24px 24px 24px 24px ;
+}
+/*
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Pinyon Script', cursive;
+*/
